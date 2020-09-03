@@ -1,2 +1,2 @@
 print("Welcome to second file..")
-print("Sec.py updated by GitHub..)
+print("Second file updated by GitHub later by pycharm..)
